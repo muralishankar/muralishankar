@@ -8,7 +8,6 @@ Hi there! I'm Muralishankar, a passionate software developer with expertise in b
 
 📫 Feel free to reach out to me for collaboration, networking, or discussions:
 
-- [Website/Blog](https://www.yourwebsite.com)
 
 ## Support Me
 
